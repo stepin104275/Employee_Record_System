@@ -4,4 +4,6 @@
 
 ![cppcheck-action](https://github.com/stepin104275/Employee_Record_System/workflows/cppcheck-action/badge.svg?branch=main)
 
+![Valgrind](https://github.com/stepin104275/Employee_Record_System/workflows/Valgrind/badge.svg)
+
 ![C/C++ CI](https://github.com/stepin105361/calc/workflows/C/C++%20CI/badge.svg)
